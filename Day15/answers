@@ -1,0 +1,92 @@
+1) print()
+
+2) In python integers store a whole number
+   for example: age = 14
+   type(age) will be int
+
+3) We use strings to store texts
+   for example: name = Alex
+   type(name) will be str
+
+4) 10 + 5 * 2 = 20
+   since we do the multiplication first, we multiply 5 to 2 and get 10, after that we add 10 to itself and get to the answer 20.
+
+5) answer = 42
+
+6) We use the term "debugging" when identifying and fixing errors.
+
+7) Snake case is a convention that underscores separate words, such as "hello_world"
+
+8) Comments help other developers understand code better.
+
+9) input()
+
+10) We had to choose the correct one from 4 answers. The answer was array.
+
+11) type()
+
+12) for example:
+    age_int = 14
+    age_str = str(age_int)
+    type(age_str) will give us the type of this variable which is going to be string.
+
+13) We use the term "Conversion" when we convert one data type into another.
+
+14) we use the " == " to check if two values are equal in python.
+
+15) result1 = True and True  # True
+    result2 = True and False  # False
+    result3 = False and True  # False
+    result4 = False and False  # False
+    
+    result5 = True or True  # True
+    result6 = True or False  # True
+    result7 = False or True  # True
+    result8 = False or False  # False
+    
+    which means that True and False operation will result in False.
+
+16) (5 > 3) and (10 < 20)
+    Since 5 > 3 and 10 < 20 are both correct, this is True and True operation which will result in True 
+
+17) if statement makes decisions and executes different code blocks based on conditions.
+
+18) for loop is used to iterate over a sequence.
+
+19) while loop is used when you want to repeat a block of code as long as the condition is true.
+
+20) The range() function returns a sequence of numbers.
+
+21) to start an if statement we use the "if" keyword.
+
+22) The statement "else" provides an another way for code to be executed if the condition is false.
+
+23) We use the list type of data to store an ordered collections of items.
+
+24) The first element of a sequence is represented by 0.
+    for example:
+    my_list = [1,32,45,2,4]
+    my_list[0]
+
+25) The third element is represented by 2.
+    for example:
+    my_list = [1,32,45,2,4]
+    my_list[2]
+
+26) slicing allows us to extract a portion from the list.
+
+27) list[2:6]
+
+28) the step between elements is called the "step"
+
+29) Reusable block of code in python that performs a specific task is called functions.
+
+30) Value passed to a function is called an argument.
+
+31) upper()
+
+32) append()
+
+33) keyword def is used to define a new function.
+
+34) keyword return is used to return a value from a function.

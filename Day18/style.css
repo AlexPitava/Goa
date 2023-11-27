@@ -1,0 +1,40 @@
+@font-face {
+    font-family: facts;
+    src: url(EmilysCandy-Regular.ttf)
+}
+@font-face {
+    font-family: title;
+    src: url(Alice_in_Wonderland_3.ttf);
+}
+@font-face {
+    font-family: body;
+    src: url(MysteryQuest-Regular.ttf)
+}
+body{
+    background-color: orange;
+}
+h1{
+    text-align: center;
+    font-family: title;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 50px
+}
+h2{
+    text-align: left;
+    font-family: body;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 225px;
+}
+p{  text-align: left;
+    font-family: facts;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 225px;
+}
+img{
+    width: 300px;
+    outline-style: solid;
+    outline-color: gray;
+}

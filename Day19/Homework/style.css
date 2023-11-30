@@ -1,0 +1,49 @@
+.body{
+    background-color: beige;
+}
+.h1{
+    line-height: 200px;
+    font-family: arial;
+    text-align: center;
+}
+.p1{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+}
+.p2{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+}
+.p3{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+}
+.def1{
+    font-size: large;
+}
+.def2{
+    font-size: large;
+}
+.def3{
+    font-size: large;
+}
+.a1{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+}
+.a2{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+    margin: 632px;
+}
+.a3{
+    font-size: larger;
+    font: bold;
+    font-weight: 900;
+}
+
